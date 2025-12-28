@@ -6,7 +6,7 @@ from groq import Groq
 # PAGE CONFIG
 # =============================
 st.set_page_config(
-    page_title="ResumeForge AI",
+    page_title="Resume Builder AI",
     page_icon="📄",
     layout="wide",
 )
@@ -162,4 +162,5 @@ Guidelines:
 # FOOTER
 # =============================
 st.markdown("---")
-st.caption("ResumeForge AI · Built like a real product · Powered by AI")
+st.caption("Resume Builder AI · Built your resume in a minute · Powered by AI")
+
