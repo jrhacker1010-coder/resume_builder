@@ -66,7 +66,7 @@ button[kind="primary"] {
 # =============================
 # HERO SECTION
 # =============================
-st.markdown("<div class='hero-title'>ResumeForge AI</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-title'>Resume Builder AI</div>", unsafe_allow_html=True)
 st.markdown("<div class='hero-sub'>Build recruiter-ready resumes powered by AI</div>", unsafe_allow_html=True)
 st.write("Trusted-quality resume generation for engineers, students & professionals.")
 
@@ -163,4 +163,5 @@ Guidelines:
 # =============================
 st.markdown("---")
 st.caption("Resume Builder AI · Built your resume in a minute · Powered by AI")
+
 
